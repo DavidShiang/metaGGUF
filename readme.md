@@ -1,4 +1,4 @@
-# GGUF Parser
+# metaGGUF： a GGUF meta info Parser
 
   Understand Your Model Files at a Glance
 
@@ -79,11 +79,6 @@ JSON文件：
       "key": "general.type",
       "type": "string",
       "value": "model"
-    },
-    {
-      "key": "general.sampling.top_k",
-      "type": "int32",
-      "value": 64
     },
     ...
     
